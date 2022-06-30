@@ -1,1 +1,2 @@
-# mycalc
+# MyCalculator
+Calc with additional Features
